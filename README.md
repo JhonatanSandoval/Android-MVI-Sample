@@ -7,3 +7,5 @@ A simple Android project using MVI pattern with Coroutines + Flows + Channels
 *  Dagger Hilt
 *  Retrofit  + Gson + Http Interceptor
 *  Kotlin Coroutines + Channels + Flow
+
+Recommend pre-video: https://youtu.be/Ls0uKLqNFz4
